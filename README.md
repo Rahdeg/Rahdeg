@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Skilled React full stack web developer willing to join a creative, problem solving team. Ability to learn and implement new technologies quickly. My skills include React, HTML5, CSS3, JavaScript, Node.js . Database Management (MongoDB, MySQL, PostgreSQL)
+Skilled React full stack web developer willing to join a creative, problem solving team. Ability to learn and implement new technologies quickly. My skills include React, HTML5, CSS3, JavaScript, Typescript Node.js . Database Management (MongoDB, MySQL, PostgreSQL)
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Raheem portfolio](http://potfolio-b5fc1.web.app/)
