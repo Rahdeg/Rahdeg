@@ -9,7 +9,7 @@ Skilled React full stack web developer willing to join a creative, problem solvi
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Raheem portfolio](http://potfolio-b5fc1.web.app/)
 * ✉️  You can contact me at [walett95@gmail.com](mailto:walett95@gmail.com)
-* 🚀  I'm currently working on [React Dashboard](http://https://effervescent-crepe-47cc81.netlify.app/)
+* 🚀  I'm currently working on [AI Dashboard](https://ai-platform-dun.vercel.app/)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting Projects
 
