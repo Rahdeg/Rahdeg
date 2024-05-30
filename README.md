@@ -7,9 +7,9 @@ Web Developer
 Skilled React full stack web developer willing to join a creative, problem solving team. Ability to learn and implement new technologies quickly. My skills include React, HTML5, CSS3, JavaScript, Typescript Node.js . Database Management (MongoDB, MySQL, PostgreSQL)
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Raheem portfolio](http://potfolio-b5fc1.web.app/)
+* 🖥️  See my portfolio at [Raheem portfolio](https://raheem-dev.vercel.app/)
 * ✉️  You can contact me at [walett95@gmail.com](mailto:walett95@gmail.com)
-* 🚀  I'm currently working on [Em-cord](https://github.com/Rahdeg/emmcord)
+* 🚀  I'm currently working on [Em-cord](https://github.com/Rahdeg/finance)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting Projects
 
@@ -53,8 +53,8 @@ src="https://img.shields.io/github/followers/Rahdeg?logo=github&style=for-the-ba
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Rahdeg/my-companion" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=my-companion&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rahdeg/e-commerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=e-commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Rahdeg/finance" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=finance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rahdeg/twitch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=twitch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Rahdeg/ecommerce-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=ecommerce-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rahdeg/quizify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=quizify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Rahdeg/doulingo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=doulingo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rahdeg/quizify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahdeg&repo=quizify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
